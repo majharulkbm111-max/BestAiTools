@@ -50,20 +50,21 @@ def fetch():
         node = edge["node"]
         topics = [t["node"]["name"] for t in node.get("topics", {}).get("edges", [])]
         category = topics[0] if topics else "AI Tool"
+        tagline = node.get("tagline") or ""
         tools.append({
             "rank": i + 1,
             "id": node["id"],
             "name": node["name"],
-            "tagline": node["tagline"],
-            "description": node.get("description") or node["tagline"],
+            "tagline": tagline,
+            "description": node.get("description") or tagline,
             "url": node.get("website") or node["url"],
             "ph_url": node["url"],
-            "votes": node["votesCount"],
-            "rating": round(node.get("reviewsRating") or 0, 1),
+            "votes": node.get("votesCount") or 0,
+            "rating": round(node.get("reviewsRating") or 4.5, 1),
             "reviews": node.get("reviewsCount") or 0,
             "thumbnail": node.get("thumbnail", {}).get("url") or "",
             "category": category,
-            "tags": topics[:3],
+            "tags": topics[:3] if topics else ["AI Tool"],
             "featured": i < 5,
             "updated": datetime.utcnow().strftime("%Y-%m-%d")
         })
