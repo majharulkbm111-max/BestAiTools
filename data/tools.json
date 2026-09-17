@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 21:33 UTC",
+  "updated": "2026-09-17 03:06 UTC",
   "total": 20,
   "tools": [
     {
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.",
       "url": "https://www.producthunt.com/r/52CAOAGHS62ZQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 549,
+      "votes": 550,
       "rating": 5.0,
       "reviews": 9,
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "One system for auth, payments, customer data, and analytics. One command to install. Launch a paid product the same day you start building.",
       "url": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 545,
+      "votes": 549,
       "rating": 0,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
@@ -63,7 +63,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 4,
@@ -73,7 +73,7 @@
       "description": "Switch brings AI agents into the collaboration tools your team already uses. Agents join as named participants in your Slack, Teams, Discord, or Telegram channels, sharing the same context and history as your team. Connect an agent once and use it across projects. Each room carries its own context, participants, and rules. Works with Claude Code, OpenAI, Google ADK, LangChain, and more. Open source, self-hostable, running in minutes.",
       "url": "https://www.producthunt.com/r/EAQYN6B2W3MDVB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 531,
+      "votes": 532,
       "rating": 5.0,
       "reviews": 4,
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
@@ -84,7 +84,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 5,
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 6,
@@ -126,7 +126,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 7,
@@ -136,7 +136,7 @@
       "description": "Voiskey starts from what you meant, not just what you said. Speak a rough thought and it comes back shaped for where it's going and who's reading it: casual with a friend, composed with a colleague, technical with an AI. It arrives 5x faster than typing, cleaned up and ready to send, while you still sound like you. Voiskey is now available on iOS, macOS, Android, and Windows, in over 100 languages. It's free to start. Join during launch and get a free month of Pro.",
       "url": "https://www.producthunt.com/r/QOEFADHWXGZN5X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 498,
+      "votes": 499,
       "rating": 0,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
@@ -147,7 +147,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 8,
@@ -167,7 +167,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 9,
@@ -188,7 +188,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 10,
@@ -207,7 +207,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 11,
@@ -228,7 +228,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 12,
@@ -249,7 +249,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 13,
@@ -270,7 +270,7 @@
         "No-Code"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 14,
@@ -280,7 +280,7 @@
       "description": "Harden AIF is a free, local security tool for AI coding agents. Its post-trained model checks tool calls before they run, using your request and session context. It beat frontier models on key agent-security benchmarks, while keeping your repo and tool output on your machine.",
       "url": "https://www.producthunt.com/r/PV2MJET6ZGFMKD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/agent-integrity-foundation-aif?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 419,
+      "votes": 420,
       "rating": 4.5,
       "reviews": 2,
       "thumbnail": "https://ph-files.imgix.net/c725435d-9c1b-4d43-ab8f-abba332bc640.png?auto=format",
@@ -291,7 +291,7 @@
         "Security"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 15,
@@ -312,7 +312,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 16,
@@ -333,7 +333,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 17,
@@ -354,7 +354,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 18,
@@ -375,7 +375,7 @@
         "No-Code"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 19,
@@ -385,7 +385,7 @@
       "description": "The Pitch Deck Analyzer gives you investor-grade feedback in minutes — trained on 25,000+ real decks and the investor decisions that followed. Upload yours and get slide-by-slide fundability feedback — stage-calibrated, checking narrative cohesion and cross-checking your claims for contradictions investors will catch. Know exactly where you lose conviction before you ever hit send. Built by 1752vc, a VC firm evaluating 4,000+ startups a year.",
       "url": "https://www.producthunt.com/r/DU4BZJ5GYQ4Z44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis/launches/1752vc-pitch-deck-analyzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 388,
+      "votes": 389,
       "rating": 5.0,
       "reviews": 11,
       "thumbnail": "https://ph-files.imgix.net/3239530f-92c7-4e13-afa7-66b4172dcb92.png?auto=format",
@@ -396,7 +396,7 @@
         "Fundraising"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     },
     {
       "rank": 20,
@@ -417,7 +417,7 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-09-16"
+      "updated": "2026-09-17"
     }
   ]
 }
