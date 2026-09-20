@@ -1,37 +1,16 @@
 {
-  "updated": "2026-09-19 09:13 UTC",
+  "updated": "2026-09-20 03:04 UTC",
   "total": 20,
   "tools": [
     {
       "rank": 1,
-      "id": "1228440",
-      "name": "Mastra Factory",
-      "tagline": "From issue to production, run by agents.",
-      "description": "Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.",
-      "url": "https://www.producthunt.com/r/52CAOAGHS62ZQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 566,
-      "rating": 5.0,
-      "reviews": 9,
-      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
-      "category": "Open Source",
-      "tags": [
-        "Open Source",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ],
-      "featured": true,
-      "updated": "2026-09-19"
-    },
-    {
-      "rank": 2,
       "id": "1199144",
       "name": "tiun.",
       "tagline": "Auth, billing, and payments for AI builders",
       "description": "One system for auth, payments, customer data, and analytics. One command to install. Launch a paid product the same day you start building.",
       "url": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 563,
+      "votes": 569,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
@@ -42,7 +21,28 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
+    },
+    {
+      "rank": 2,
+      "id": "1228440",
+      "name": "Mastra Factory",
+      "tagline": "From issue to production, run by agents.",
+      "description": "Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.",
+      "url": "https://www.producthunt.com/r/52CAOAGHS62ZQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 567,
+      "rating": 5.0,
+      "reviews": 9,
+      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
+      "category": "Open Source",
+      "tags": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "featured": true,
+      "updated": "2026-09-20"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "Switch brings AI agents into the collaboration tools your team already uses. Agents join as named participants in your Slack, Teams, Discord, or Telegram channels, sharing the same context and history as your team. Connect an agent once and use it across projects. Each room carries its own context, participants, and rules. Works with Claude Code, OpenAI, Google ADK, LangChain, and more. Open source, self-hostable, running in minutes.",
       "url": "https://www.producthunt.com/r/EAQYN6B2W3MDVB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 543,
+      "votes": 544,
       "rating": 5.0,
       "reviews": 6,
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
@@ -63,17 +63,38 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 4,
+      "id": "1252325",
+      "name": "Ami AI",
+      "tagline": "Lovable for getting customers",
+      "description": "Most outbound dies on one decision: who to write to this week. Ami has already made it 17,707 times and kept score. Built on GPT-6 Astra and every one of those campaigns, it reads your website, picks the buyers who actually convert, and plans backwards from the number you need: leads, senders, weeks. If the list you asked for won't work, it says so before it builds anything. Approve the plan and it runs the outreach, watches every campaign, and fixes what slips. 19,854 booked meetings behind it.",
+      "url": "https://www.producthunt.com/r/IABJ4YWI3SSSWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 532,
+      "rating": 4.0,
+      "reviews": 1,
+      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
+      "category": "Sales",
+      "tags": [
+        "Sales",
+        "Marketing",
+        "Artificial Intelligence"
+      ],
+      "featured": true,
+      "updated": "2026-09-20"
+    },
+    {
+      "rank": 5,
       "id": "1237367",
       "name": "Voiskey",
       "tagline": "AI voice typing that sounds right in every app",
       "description": "Voiskey starts from what you meant, not just what you said. Speak a rough thought and it comes back shaped for where it's going and who's reading it: casual with a friend, composed with a colleague, technical with an AI. It arrives 5x faster than typing, cleaned up and ready to send, while you still sound like you. Voiskey is now available on iOS, macOS, Android, and Windows, in over 100 languages. It's free to start. Join during launch and get a free month of Pro.",
       "url": "https://www.producthunt.com/r/QOEFADHWXGZN5X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 519,
+      "votes": 520,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
@@ -84,17 +105,17 @@
         "Audio"
       ],
       "featured": true,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "1240758",
       "name": "GPT-6 Astra",
       "tagline": "OpenAI's most capable model for end-to-end work",
       "description": "GPT-6 Astra is OpenAI's most capable model for complex reasoning, software engineering, computer use, science, and professional work. Async tool calling and mid-turn steering help it run multistep agent workflows. API: model id gpt-6-astra, $10/$50 per 1M tokens (short context). Rolling out first via Trusted Access/Daybreak, then Plus, Pro, Business, Enterprise, and the API in the coming days. First OpenAI model at the Critical cybersecurity capability threshold (advanced cyber access limited).",
       "url": "https://www.producthunt.com/r/JZWSD2RN4SUNT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/openai/launches/gpt-6-astra-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 517,
+      "votes": 518,
       "rating": 5.0,
       "reviews": 848,
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
@@ -104,18 +125,18 @@
         "Developer Tools",
         "Artificial Intelligence"
       ],
-      "featured": true,
-      "updated": "2026-09-19"
+      "featured": false,
+      "updated": "2026-09-20"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "1237159",
       "name": "Monid",
       "tagline": "OpenRouter for agent tools",
       "description": "We connect your AI agent to 1,800+ APIs without any subscriptions. SEO, lead gen, video/music generation, social media, stocks, market trends, on-chain data, competitor tracking, sentiment analysis, all unlocked with one key.",
       "url": "https://www.producthunt.com/r/BF4YYRJGDZZ236?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/monid/launches/monid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 505,
+      "votes": 504,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
@@ -126,28 +147,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
-    },
-    {
-      "rank": 7,
-      "id": "1252325",
-      "name": "Ami AI",
-      "tagline": "Lovable for getting customers",
-      "description": "Most outbound dies on one decision: who to write to this week. Ami has already made it 17,707 times and kept score. Built on GPT-6 Astra and every one of those campaigns, it reads your website, picks the buyers who actually convert, and plans backwards from the number you need: leads, senders, weeks. If the list you asked for won't work, it says so before it builds anything. Approve the plan and it runs the outreach, watches every campaign, and fixes what slips. 19,854 booked meetings behind it.",
-      "url": "https://www.producthunt.com/r/IABJ4YWI3SSSWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 501,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
-      "category": "Sales",
-      "tags": [
-        "Sales",
-        "Marketing",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 8,
@@ -157,9 +157,9 @@
       "description": "AINA is an AI career coach that helps you see what's holding your job search back, strengthen your profile, and practice for interviews — through conversations with a video avatar. Talk to AINA and walk away with a personalized action plan for whatever's next in your career.",
       "url": "https://www.producthunt.com/r/DPLNID7SCPBE2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 453,
+      "votes": 476,
       "rating": 5.0,
-      "reviews": 2,
+      "reviews": 3,
       "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
       "category": "Productivity",
       "tags": [
@@ -168,7 +168,7 @@
         "Career"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 9,
@@ -178,7 +178,7 @@
       "description": "AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.",
       "url": "https://www.producthunt.com/r/FBV7SHB3HECJ55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 447,
+      "votes": 446,
       "rating": 4.9,
       "reviews": 11,
       "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
@@ -189,7 +189,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 10,
@@ -208,7 +208,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 11,
@@ -218,7 +218,7 @@
       "description": "Hitting Claude's limit mid-work is annoying af. Diet Claude gives a live usage meter shows how much of your session you’ve used, how much time is left, and when your limits reset. It helps optimise token usage by context trimming, tightening prompts, suggesting apt models. And when you do run dry, it carries your conversation and context over to another LLM instead of starting from scratch.",
       "url": "https://www.producthunt.com/r/FBBFOTHWP2O4QH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/diet-claude/launches/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 437,
+      "votes": 436,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/a128ff6b-cc8e-4abc-98e6-1b8d59df2afd.png?auto=format",
@@ -229,7 +229,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 12,
@@ -239,7 +239,7 @@
       "description": "Private company data with 4x the depth and 2x the coverage of PitchBook, plus 100+ event signals and news across companies, industries, and topics. Source and diligence deals or make outreach lists and trigger outbound. Built for financial services and GTM teams, pay-as-you-go.",
       "url": "https://www.producthunt.com/r/7VLENQJQZQK4EG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/akta-pro/launches/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 435,
+      "votes": 434,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/d096a90c-a4f0-414d-992a-d1803381c3f8.x-icon?auto=format",
@@ -250,7 +250,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 13,
@@ -260,7 +260,7 @@
       "description": "Harden AIF is a free, local security tool for AI coding agents. Its post-trained model checks tool calls before they run, using your request and session context. It beat frontier models on key agent-security benchmarks, while keeping your repo and tool output on your machine.",
       "url": "https://www.producthunt.com/r/PV2MJET6ZGFMKD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/agent-integrity-foundation-aif?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 422,
+      "votes": 421,
       "rating": 4.5,
       "reviews": 2,
       "thumbnail": "https://ph-files.imgix.net/c725435d-9c1b-4d43-ab8f-abba332bc640.png?auto=format",
@@ -271,7 +271,7 @@
         "Security"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 14,
@@ -281,7 +281,7 @@
       "description": "Your thoughts shouldn’t have to slow down for a keyboard. With Loqua, you can speak naturally to turn rough ideas into ready-to-use writing, understand what’s on your screen, listen when you’d rather not read, and move work forward by voice - from rewriting and translation to scheduling and coding workflows. Less typing, less context switching, more time in flow.",
       "url": "https://www.producthunt.com/r/TI22A4U5XM3DVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 416,
+      "votes": 414,
       "rating": 5.0,
       "reviews": 5,
       "thumbnail": "https://ph-files.imgix.net/6eeca771-4801-4d1c-bb7e-723fac338222.png?auto=format",
@@ -292,7 +292,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 15,
@@ -313,7 +313,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 16,
@@ -323,7 +323,7 @@
       "description": "MosMos goes beyond voice dictation by turning both individual thoughts and group conversations into usable writing. Speak naturally in any app, get fast and accurate text in the style you choose, or ask MosMos to search the web for current information. Its personal glossary remembers specialized terms after you add them once. In multi-speaker meetings, it tracks precise timestamps, distinguishes speakers, and creates structured notes, summaries, decisions, and action items for easier follow-up.",
       "url": "https://www.producthunt.com/r/2WNX7F5ABJ77RC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 406,
+      "votes": 409,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/1b3fbc2c-3a4f-4cef-8486-e1cb7dc37b98.png?auto=format",
@@ -334,7 +334,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 17,
@@ -355,7 +355,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 18,
@@ -376,7 +376,7 @@
         "Fundraising"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 19,
@@ -386,7 +386,7 @@
       "description": "Building what runs a business takes more than code. Enter Pro is the AI-native platform that turns an idea into a working product. Plan, build, preview, launch, and scale apps, websites, and custom AI agents in one continuous workspace. Models, databases, authentication, hosting, payments, analytics, and localization are built in—so teams can ship software built for real business, not just prototypes.",
       "url": "https://www.producthunt.com/r/BLPV3H4S2Y7TQX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/enter-pro/launches/enter-pro-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 394,
+      "votes": 393,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/2a2e769a-18c0-436e-9c92-a7dcd96da2e9.png?auto=format",
@@ -397,7 +397,7 @@
         "No-Code"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     },
     {
       "rank": 20,
@@ -418,7 +418,7 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-20"
     }
   ]
 }
