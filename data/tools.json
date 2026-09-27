@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26 03:12 UTC",
+  "updated": "2026-09-27 03:19 UTC",
   "total": 20,
   "tools": [
     {
@@ -10,7 +10,7 @@
       "description": "Most outbound dies on one decision: who to write to this week. Ami has already made it 17,707 times and kept score. Built on GPT-6 Astra and every one of those campaigns, it reads your website, picks the buyers who actually convert, and plans backwards from the number you need: leads, senders, weeks. If the list you asked for won't work, it says so before it builds anything. Approve the plan and it runs the outreach, watches every campaign, and fixes what slips. 19,854 booked meetings behind it.",
       "url": "https://www.producthunt.com/r/IABJ4YWI3SSSWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 634,
+      "votes": 635,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "One system for auth, payments, customer data, and analytics. One command to install. Launch a paid product the same day you start building.",
       "url": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 610,
+      "votes": 613,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 3,
@@ -63,7 +63,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 4,
@@ -84,7 +84,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 5,
@@ -94,7 +94,7 @@
       "description": "Make videos with Claude, ChatGPT, or any AI agent. Give Clueso an idea, deck, reference video, or recording, and it handles the whole video production: storyboard, scenes, voiceover, music, and editing, on-brand. Everything stays editable, by hand or by chat.",
       "url": "https://www.producthunt.com/r/CFUV35KT4ZLPZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 541,
+      "votes": 544,
       "rating": 4.9,
       "reviews": 24,
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
@@ -105,7 +105,7 @@
         "Video"
       ],
       "featured": true,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 6,
@@ -126,7 +126,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 7,
@@ -147,7 +147,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 8,
@@ -168,7 +168,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 9,
@@ -178,7 +178,7 @@
       "description": "Orchestrate coding agents from your iPhone. Pick up the same workspaces from your computer, review diffs, and merge PRs away from your desk. Works with Claude Code, Codex, and other terminal agents. Included with Superset Pro. First month free with code MOBILELAUNCH.",
       "url": "https://www.producthunt.com/r/WKWWYZ4NNBTCM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 504,
+      "votes": 503,
       "rating": 5.0,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
@@ -189,7 +189,7 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 10,
@@ -199,7 +199,7 @@
       "description": "We connect your AI agent to 1,800+ APIs without any subscriptions. SEO, lead gen, video/music generation, social media, stocks, market trends, on-chain data, competitor tracking, sentiment analysis, all unlocked with one key.",
       "url": "https://www.producthunt.com/r/BF4YYRJGDZZ236?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/monid/launches/monid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 499,
+      "votes": 498,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
@@ -210,7 +210,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 11,
@@ -231,7 +231,7 @@
         "Career"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 12,
@@ -241,7 +241,7 @@
       "description": "Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for. They pick and set up their own real machines, create accounts and pay for services. They use your apps through APIs or log in like a person. They build what’s missing and fix problems along the way. Think beyond personal agents like Grok Bot and Muse: Solid is built for complex, long-running work for you and your team. Close your laptop. Solid owns the job from start to finish.",
       "url": "https://www.producthunt.com/r/IGFJIPCFXEAE6A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 463,
+      "votes": 460,
       "rating": 4.6,
       "reviews": 10,
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
@@ -252,7 +252,7 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 13,
@@ -273,7 +273,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 14,
@@ -292,30 +292,10 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 15,
-      "id": "1255660",
-      "name": "Sai",
-      "tagline": "The autonomous computer fleet at your command",
-      "description": "Sai is the world's first robosecretary that works with a fleet of autonomous computers, doing your endless screen work. Each computer navigates software the way you do: reads the screen, clicks the button, types in the form. Trained to interact with the computer interface, Sai automates software even when they lack APIs: legacy desktop apps, internal portals, anything behind a login. Sai supports Windows, macOS and Linux. 73% on OSWorld.",
-      "url": "https://www.producthunt.com/r/EXXMVNBYWQYZ32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 420,
-      "rating": 4.4,
-      "reviews": 5,
-      "thumbnail": "https://ph-files.imgix.net/72c4a8af-717b-4d86-9495-6ff1101c6db1.png?auto=format",
-      "category": "Productivity",
-      "tags": [
-        "Productivity",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-09-26"
-    },
-    {
-      "rank": 16,
       "id": "1236022",
       "name": "Harden",
       "tagline": "A security layer for AI coding agents",
@@ -333,7 +313,27 @@
         "Security"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
+    },
+    {
+      "rank": 16,
+      "id": "1255660",
+      "name": "Sai",
+      "tagline": "The autonomous computer fleet at your command",
+      "description": "Sai is the world's first robosecretary that works with a fleet of autonomous computers, doing your endless screen work. Each computer navigates software the way you do: reads the screen, clicks the button, types in the form. Trained to interact with the computer interface, Sai automates software even when they lack APIs: legacy desktop apps, internal portals, anything behind a login. Sai supports Windows, macOS and Linux. 73% on OSWorld.",
+      "url": "https://www.producthunt.com/r/EXXMVNBYWQYZ32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 419,
+      "rating": 4.4,
+      "reviews": 5,
+      "thumbnail": "https://ph-files.imgix.net/72c4a8af-717b-4d86-9495-6ff1101c6db1.png?auto=format",
+      "category": "Productivity",
+      "tags": [
+        "Productivity",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "updated": "2026-09-27"
     },
     {
       "rank": 17,
@@ -343,7 +343,7 @@
       "description": "Stop babysitting AI's empty text boxes. Naise AI gives founders and lean teams the output of a full marketing department without the overhead. Lock in your brand guidelines with Persistent Memory, select an Prompt Playbook, and let the platform handle the execution. From vetting real influencers and pitching to journalists, to generating and scheduling social content natively. Go from a cold start to live campaigns in under 24 hours, saving 40+ hours a week and cutting your marketing costs.",
       "url": "https://www.producthunt.com/r/I323VH3KBIWT3P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 416,
+      "votes": 415,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/3e15259f-aaf6-4938-bf3c-e0f68c7ff8e9.png?auto=format",
@@ -354,7 +354,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 18,
@@ -375,7 +375,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 19,
@@ -396,7 +396,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     },
     {
       "rank": 20,
@@ -406,7 +406,7 @@
       "description": "Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP. Real audience signal in under 30 minutes. Peer-reviewed at 86% human accuracy vs Baymard and Nielsen Norman.",
       "url": "https://www.producthunt.com/r/SV57AXQTEEXIBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/articos/launches/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 407,
+      "votes": 406,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/2e9b4925-6fec-4075-aba3-a67393016e46.jpeg?auto=format",
@@ -417,7 +417,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
     }
   ]
 }
