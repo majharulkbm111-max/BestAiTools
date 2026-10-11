@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 04:01 UTC",
+  "updated": "2026-10-11 03:37 UTC",
   "total": 20,
   "tools": [
     {
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 2,
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.",
       "url": "https://www.producthunt.com/r/XJ7UD64LPY5QDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/jev/launches/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 602,
+      "votes": 606,
       "rating": 5.0,
       "reviews": 9,
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
@@ -63,7 +63,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 4,
@@ -84,7 +84,7 @@
         "Video"
       ],
       "featured": true,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 5,
@@ -105,38 +105,17 @@
         "Audio"
       ],
       "featured": true,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 6,
-      "id": "1271031",
-      "name": "IrisGo for Solopreneurs",
-      "tagline": "AI workflow automation: show it once, let it run",
-      "description": "IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch & Learn. Spend less time on admin and more time building your business. Free during beta.",
-      "url": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 532,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
-      "category": "Task Management",
-      "tags": [
-        "Task Management",
-        "Artificial Intelligence",
-        "Virtual Assistants"
-      ],
-      "featured": false,
-      "updated": "2026-10-10"
-    },
-    {
-      "rank": 7,
       "id": "1269915",
       "name": "Spira Maxima",
       "tagline": "Video model that turns script into viral social media videos",
       "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
       "url": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 519,
+      "votes": 558,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
@@ -147,7 +126,28 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
+    },
+    {
+      "rank": 7,
+      "id": "1271031",
+      "name": "IrisGo for Solopreneurs",
+      "tagline": "AI workflow automation: show it once, let it run",
+      "description": "IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch & Learn. Spend less time on admin and more time building your business. Free during beta.",
+      "url": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 537,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
+      "category": "Task Management",
+      "tags": [
+        "Task Management",
+        "Artificial Intelligence",
+        "Virtual Assistants"
+      ],
+      "featured": false,
+      "updated": "2026-10-11"
     },
     {
       "rank": 8,
@@ -157,7 +157,7 @@
       "description": "AINA is an AI career coach that helps you see what's holding your job search back, strengthen your profile, and practice for interviews — through conversations with a video avatar. Talk to AINA and walk away with a personalized action plan for whatever's next in your career.",
       "url": "https://www.producthunt.com/r/DPLNID7SCPBE2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/aina/launches/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 510,
+      "votes": 511,
       "rating": 5.0,
       "reviews": 4,
       "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
@@ -168,17 +168,37 @@
         "Career"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 9,
+      "id": "1270095",
+      "name": "Rill Browser",
+      "tagline": "The browser where Claude Code and Codex work beside you",
+      "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
+      "url": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 501,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
+      "category": "Developer Tools",
+      "tags": [
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "updated": "2026-10-11"
+    },
+    {
+      "rank": 10,
       "id": "1247082",
       "name": "Superset Mobile",
       "tagline": "Your coding agents, now in your pocket",
       "description": "Orchestrate coding agents from your iPhone. Pick up the same workspaces from your computer, review diffs, and merge PRs away from your desk. Works with Claude Code, Codex, and other terminal agents. Included with Superset Pro. First month free with code MOBILELAUNCH.",
       "url": "https://www.producthunt.com/r/WKWWYZ4NNBTCM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/superset-5/launches/superset-mobile-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 476,
+      "votes": 475,
       "rating": 5.0,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
@@ -189,10 +209,31 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "id": "1254767",
+      "name": "Velozity",
+      "tagline": "The Multiplayer AI Office where your team and agents work",
+      "description": "Your team chats in one app, meets in another, and every AI works alone. Velozity brings it all into one place. Chat, audio and video calls with transcripts, tasks, calendar and files, plus AI agents (Claude, Codex, etc.) on the subscriptions you already pay for. Every agent shares the same context, so work moves between people and agents without having to re-explain. For startups, teams in dev, product, sales, and ops, or solo users juggling several AIs. No second AI bill. Free to start.",
+      "url": "https://www.producthunt.com/r/LVDMUE35VIECA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 472,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
+      "category": "Productivity",
+      "tags": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "updated": "2026-10-11"
+    },
+    {
+      "rank": 12,
       "id": "1264587",
       "name": "Gauth Unlimited Digital Canvas ",
       "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
@@ -210,10 +251,10 @@
         "Online Learning"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "id": "1254743",
       "name": "Pexo",
       "tagline": "Produce pitch perfect launch videos with precise control",
@@ -231,10 +272,10 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "id": "1256789",
       "name": "Solid",
       "tagline": "Agents with their own computers, accounts, and budgets.",
@@ -252,38 +293,17 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
-      "rank": 13,
-      "id": "1254767",
-      "name": "Velozity",
-      "tagline": "The Multiplayer AI Office where your team and agents work",
-      "description": "Your team chats in one app, meets in another, and every AI works alone. Velozity brings it all into one place. Chat, audio and video calls with transcripts, tasks, calendar and files, plus AI agents (Claude, Codex, etc.) on the subscriptions you already pay for. Every agent shares the same context, so work moves between people and agents without having to re-explain. For startups, teams in dev, product, sales, and ops, or solo users juggling several AIs. No second AI bill. Free to start.",
-      "url": "https://www.producthunt.com/r/LVDMUE35VIECA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 462,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
-      "category": "Productivity",
-      "tags": [
-        "Productivity",
-        "Meetings",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-10-10"
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "id": "1254665",
       "name": "MCP Connectors by Databox",
       "tagline": "Give your AI Analyst context to explain performance and act",
       "description": "Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.",
       "url": "https://www.producthunt.com/r/G6WOTY7G4NBGJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 461,
+      "votes": 462,
       "rating": 4.8,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
@@ -294,17 +314,17 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "1259609",
       "name": "Floot MCP",
       "tagline": "Build and ship web and mobile apps inside Claude or ChatGPT",
       "description": "Connect Floot to Claude or ChatGPT and build a full-stack app without leaving the chat. Floot gives your AI a ready-to-use workspace with a database, user logins, hosting, and a live URL - nothing to install or configure. Your existing Claude or ChatGPT subscription does the thinking, so Floot doesn’t charge based on AI usage. When you’re ready, publish the same project to the web, iOS, and Android, then keep shipping updates from the same conversation.",
       "url": "https://www.producthunt.com/r/QUJC2M4LRE7CQ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/floot/launches/floot-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 453,
+      "votes": 451,
       "rating": 4.3,
       "reviews": 20,
       "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
@@ -315,27 +335,7 @@
         "No-Code"
       ],
       "featured": false,
-      "updated": "2026-10-10"
-    },
-    {
-      "rank": 16,
-      "id": "1270095",
-      "name": "Rill Browser",
-      "tagline": "The browser where Claude Code and Codex work beside you",
-      "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
-      "url": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 450,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
-      "category": "Developer Tools",
-      "tags": [
-        "Developer Tools",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 17,
@@ -345,7 +345,7 @@
       "description": "iFixAi is an independent auditor helping companies assess whether they can trust their AI agents. Unlike relying solely on evals and observability tools, its multifaceted audit includes 250 inspections across 69 categories of AI misalignment, combining AI red teaming, operational assurance, and philosophical, ethical, and sociological perspectives. It identifies failures under testing, explains their business implications, and provides evidence engineers can use to investigate and fix them.",
       "url": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 442,
+      "votes": 441,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
@@ -356,7 +356,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 18,
@@ -366,7 +366,7 @@
       "description": "Sai is the world's first robosecretary that works with a fleet of autonomous computers, doing your endless screen work. Each computer navigates software the way you do: reads the screen, clicks the button, types in the form. Trained to interact with the computer interface, Sai automates software even when they lack APIs: legacy desktop apps, internal portals, anything behind a login. Sai supports Windows, macOS and Linux. 73% on OSWorld.",
       "url": "https://www.producthunt.com/r/EXXMVNBYWQYZ32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/simular/launches/sai-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 418,
+      "votes": 417,
       "rating": 4.4,
       "reviews": 5,
       "thumbnail": "https://ph-files.imgix.net/72c4a8af-717b-4d86-9495-6ff1101c6db1.png?auto=format",
@@ -376,7 +376,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 19,
@@ -397,7 +397,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     },
     {
       "rank": 20,
@@ -407,7 +407,7 @@
       "description": "Learn by building, on any website, with Scholé by your side. You can read about a tool, watch someone walk through it on YouTube, or ask ChatGPT to explain it. But you won’t properly learn until you build with it yourself. Learn Anywhere mode guides you through using any real tool directly on your screen, adapting tasks and giving visual hints. Everything you learn updates your Scholé knowledge graph and counts towards your lessons. Our thesis? Learn it well enough to use it.",
       "url": "https://www.producthunt.com/r/F22BXESSBPZXG7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/schole-2/launches/schole-learn-by-building?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 406,
+      "votes": 407,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/b742df3f-7260-46e4-8a25-057ab0673158.jpeg?auto=format",
@@ -418,7 +418,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-10"
+      "updated": "2026-10-11"
     }
   ]
 }
