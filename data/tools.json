@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 03:16 UTC",
+  "updated": "2026-10-15 02:55 UTC",
   "total": 20,
   "tools": [
     {
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 2,
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "Make videos with Claude, ChatGPT, or any AI agent. Give Clueso an idea, deck, reference video, or recording, and it handles the whole video production: storyboard, scenes, voiceover, music, and editing, on-brand. Everything stays editable, by hand or by chat.",
       "url": "https://www.producthunt.com/r/CFUV35KT4ZLPZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 597,
+      "votes": 599,
       "rating": 4.9,
       "reviews": 26,
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
@@ -63,7 +63,7 @@
         "Video"
       ],
       "featured": true,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 4,
@@ -84,7 +84,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 5,
@@ -94,7 +94,7 @@
       "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
       "url": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 556,
+      "votes": 564,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 6,
@@ -126,7 +126,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 7,
@@ -136,7 +136,7 @@
       "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
       "url": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 512,
+      "votes": 513,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
@@ -146,7 +146,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 8,
@@ -156,7 +156,7 @@
       "description": "IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch & Learn. Spend less time on admin and more time building your business. Free during beta.",
       "url": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 505,
+      "votes": 507,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
@@ -167,7 +167,7 @@
         "Virtual Assistants"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 9,
@@ -188,7 +188,7 @@
         "Career"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 10,
@@ -198,7 +198,7 @@
       "description": "ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.",
       "url": "https://www.producthunt.com/r/E6PNMMFOZ76WY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 495,
+      "votes": 502,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
@@ -209,10 +209,31 @@
         "Marketing automation"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
       "rank": 11,
+      "id": "1221402",
+      "name": "Pancake",
+      "tagline": "The Vercel for GTM",
+      "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
+      "url": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 501,
+      "rating": 5.0,
+      "reviews": 3,
+      "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
+      "category": "Sales",
+      "tags": [
+        "Sales",
+        "Marketing",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "updated": "2026-10-15"
+    },
+    {
+      "rank": 12,
       "id": "1254767",
       "name": "Velozity",
       "tagline": "The Multiplayer AI Office where your team and agents work",
@@ -230,17 +251,17 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "1254743",
       "name": "Pexo",
       "tagline": "Produce pitch perfect launch videos with precise control",
       "description": "Pexo makes creating your launch video as simple as having a conversation. Share your product, website, or assets. It plans the story, chooses the right AI model for each task, generates and assembles the scenes, and handles voiceover, music, captions, motion graphics, and editing. Leave a comment or circle what you want changed, and Pexo makes the edit. You direct one agent from idea to a finished, on-brand launch video.",
       "url": "https://www.producthunt.com/r/O3T2IT5O2KIEFF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 448,
+      "ph_url": "https://www.producthunt.com/products/pexo-2/launches/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 449,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
@@ -251,17 +272,17 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "1254665",
       "name": "MCP Connectors by Databox",
       "tagline": "Give your AI Analyst context to explain performance and act",
       "description": "Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.",
       "url": "https://www.producthunt.com/r/G6WOTY7G4NBGJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/databox/launches/mcp-connectors-by-databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 442,
+      "votes": 444,
       "rating": 4.8,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
@@ -272,10 +293,10 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "1256789",
       "name": "Solid",
       "tagline": "Agents with their own computers, accounts, and budgets.",
@@ -293,10 +314,10 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "1259609",
       "name": "Floot MCP",
       "tagline": "Build and ship web and mobile apps inside Claude or ChatGPT",
@@ -314,17 +335,17 @@
         "No-Code"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "1247082",
       "name": "Superset Mobile",
       "tagline": "Your coding agents, now in your pocket",
       "description": "Orchestrate coding agents from your iPhone. Pick up the same workspaces from your computer, review diffs, and merge PRs away from your desk. Works with Claude Code, Codex, and other terminal agents. Included with Superset Pro. First month free with code MOBILELAUNCH.",
       "url": "https://www.producthunt.com/r/WKWWYZ4NNBTCM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/superset-5/launches/superset-mobile-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 423,
+      "votes": 425,
       "rating": 5.0,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
@@ -335,17 +356,17 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "1264587",
       "name": "Gauth Unlimited Digital Canvas ",
       "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
       "description": "Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.",
       "url": "https://www.producthunt.com/r/TCMAWBRPUPSDRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 415,
+      "votes": 416,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
@@ -356,10 +377,10 @@
         "Online Learning"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "1252633",
       "name": "iFixAi",
       "tagline": "Independent auditing of AI agents to uncover misalignment",
@@ -377,10 +398,10 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "1255660",
       "name": "Sai",
       "tagline": "The autonomous computer fleet at your command",
@@ -397,28 +418,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-14"
-    },
-    {
-      "rank": 20,
-      "id": "1264809",
-      "name": "Ferndesk",
-      "tagline": "The help center that never goes out of date",
-      "description": "Ferndesk is a complete help center with an agent that checks every article against your product, catches what changed, and drafts the fixes for you.",
-      "url": "https://www.producthunt.com/r/576PDTHXOH2PTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 384,
-      "rating": 5.0,
-      "reviews": 2,
-      "thumbnail": "https://ph-files.imgix.net/13c7c481-4fdb-42f7-a4f4-2c1fec085409.gif?auto=format",
-      "category": "Customer Success",
-      "tags": [
-        "Customer Success",
-        "Customer Communication",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-10-14"
+      "updated": "2026-10-15"
     }
   ]
 }
