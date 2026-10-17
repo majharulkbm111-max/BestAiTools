@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 02:53 UTC",
+  "updated": "2026-10-17 02:44 UTC",
   "total": 20,
   "tools": [
     {
@@ -10,7 +10,7 @@
       "description": "Most outbound dies on one decision: who to write to this week. Ami has already made it 17,707 times and kept score. Built on GPT-6 Astra and every one of those campaigns, it reads your website, picks the buyers who actually convert, and plans backwards from the number you need: leads, senders, weeks. If the list you asked for won't work, it says so before it builds anything. Approve the plan and it runs the outreach, watches every campaign, and fixes what slips. 19,854 booked meetings behind it.",
       "url": "https://www.producthunt.com/r/IABJ4YWI3SSSWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/ami-ai/launches/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 682,
+      "votes": 686,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
       "url": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 621,
+      "votes": 636,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "Make videos with Claude, ChatGPT, or any AI agent. Give Clueso an idea, deck, reference video, or recording, and it handles the whole video production: storyboard, scenes, voiceover, music, and editing, on-brand. Everything stays editable, by hand or by chat.",
       "url": "https://www.producthunt.com/r/CFUV35KT4ZLPZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 602,
+      "votes": 604,
       "rating": 4.9,
       "reviews": 26,
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
@@ -63,7 +63,7 @@
         "Video"
       ],
       "featured": true,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 4,
@@ -73,7 +73,7 @@
       "description": "Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.",
       "url": "https://www.producthunt.com/r/XJ7UD64LPY5QDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/jev/launches/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 595,
+      "votes": 596,
       "rating": 5.0,
       "reviews": 10,
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
@@ -84,7 +84,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 5,
@@ -94,7 +94,7 @@
       "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
       "url": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 571,
+      "votes": 578,
       "rating": 5.0,
       "reviews": 3,
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 6,
@@ -125,7 +125,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 7,
@@ -135,7 +135,7 @@
       "description": "IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch & Learn. Spend less time on admin and more time building your business. Free during beta.",
       "url": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 510,
+      "votes": 513,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
@@ -146,7 +146,7 @@
         "Virtual Assistants"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 8,
@@ -156,7 +156,7 @@
       "description": "ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.",
       "url": "https://www.producthunt.com/r/E6PNMMFOZ76WY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 506,
+      "votes": 510,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
@@ -167,7 +167,7 @@
         "Marketing automation"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 9,
@@ -188,7 +188,7 @@
         "Career"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 10,
@@ -198,7 +198,7 @@
       "description": "Your team chats in one app, meets in another, and every AI works alone. Velozity brings it all into one place. Chat, audio and video calls with transcripts, tasks, calendar and files, plus AI agents (Claude, Codex, etc.) on the subscriptions you already pay for. Every agent shares the same context, so work moves between people and agents without having to re-explain. For startups, teams in dev, product, sales, and ops, or solo users juggling several AIs. No second AI bill. Free to start.",
       "url": "https://www.producthunt.com/r/LVDMUE35VIECA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 452,
+      "votes": 454,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
@@ -209,7 +209,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 11,
@@ -219,7 +219,7 @@
       "description": "Pexo makes creating your launch video as simple as having a conversation. Share your product, website, or assets. It plans the story, chooses the right AI model for each task, generates and assembles the scenes, and handles voiceover, music, captions, motion graphics, and editing. Leave a comment or circle what you want changed, and Pexo makes the edit. You direct one agent from idea to a finished, on-brand launch video.",
       "url": "https://www.producthunt.com/r/O3T2IT5O2KIEFF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/pexo-2/launches/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 449,
+      "votes": 450,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
@@ -230,7 +230,7 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 12,
@@ -240,7 +240,7 @@
       "description": "Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.",
       "url": "https://www.producthunt.com/r/G6WOTY7G4NBGJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/databox/launches/mcp-connectors-by-databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 444,
+      "votes": 448,
       "rating": 4.8,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
@@ -251,7 +251,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 13,
@@ -272,7 +272,7 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 14,
@@ -293,7 +293,7 @@
         "No-Code"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 15,
@@ -303,7 +303,7 @@
       "description": "Orchestrate coding agents from your iPhone. Pick up the same workspaces from your computer, review diffs, and merge PRs away from your desk. Works with Claude Code, Codex, and other terminal agents. Included with Superset Pro. First month free with code MOBILELAUNCH.",
       "url": "https://www.producthunt.com/r/WKWWYZ4NNBTCM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/superset-5/launches/superset-mobile-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 425,
+      "votes": 426,
       "rating": 5.0,
       "reviews": 8,
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
@@ -314,7 +314,7 @@
         "Development"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 16,
@@ -323,8 +323,8 @@
       "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
       "description": "Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.",
       "url": "https://www.producthunt.com/r/TCMAWBRPUPSDRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 416,
+      "ph_url": "https://www.producthunt.com/products/gauth-ai-course/launches/gauth-unlimited-digital-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 418,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
@@ -335,17 +335,38 @@
         "Online Learning"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 17,
+      "id": "1265035",
+      "name": "Inferock",
+      "tagline": "Serverless inference, with credits back for failed calls.",
+      "description": "Get free signup credits to use all available models on Inferock. Bring your own keys: run your OpenAI, Claude or Gemini accounts, see where calls fail and what they cost, and get credits back on eligible failed calls. Serverless: pay-per-token LLM inference. Get signup credits to start using.",
+      "url": "https://www.producthunt.com/r/Q5YAUE7WHFYYB4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 401,
+      "rating": 4.0,
+      "reviews": 1,
+      "thumbnail": "https://ph-files.imgix.net/7a48325f-d5b7-4547-9aaf-aae3b709d967.png?auto=format",
+      "category": "Developer Tools",
+      "tags": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Google Cloud Run"
+      ],
+      "featured": false,
+      "updated": "2026-10-17"
+    },
+    {
+      "rank": 18,
       "id": "1252633",
       "name": "iFixAi",
       "tagline": "Independent auditing of AI agents to uncover misalignment",
       "description": "iFixAi is an independent auditor helping companies assess whether they can trust their AI agents. Unlike relying solely on evals and observability tools, its multifaceted audit includes 250 inspections across 69 categories of AI misalignment, combining AI red teaming, operational assurance, and philosophical, ethical, and sociological perspectives. It identifies failures under testing, explains their business implications, and provides evidence engineers can use to investigate and fix them.",
       "url": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/ifixai/launches/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 399,
+      "votes": 400,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
@@ -356,10 +377,10 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "1255660",
       "name": "Sai",
       "tagline": "The autonomous computer fleet at your command",
@@ -376,28 +397,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-16"
-    },
-    {
-      "rank": 19,
-      "id": "1265035",
-      "name": "Inferock",
-      "tagline": "Serverless inference, with credits back for failed calls.",
-      "description": "Get free signup credits to use all available models on Inferock. Bring your own keys: run your OpenAI, Claude or Gemini accounts, see where calls fail and what they cost, and get credits back on eligible failed calls. Serverless: pay-per-token LLM inference. Get signup credits to start using.",
-      "url": "https://www.producthunt.com/r/Q5YAUE7WHFYYB4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 397,
-      "rating": 4.0,
-      "reviews": 1,
-      "thumbnail": "https://ph-files.imgix.net/7a48325f-d5b7-4547-9aaf-aae3b709d967.png?auto=format",
-      "category": "Developer Tools",
-      "tags": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "Google Cloud Run"
-      ],
-      "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     },
     {
       "rank": 20,
@@ -407,7 +407,7 @@
       "description": "Ferndesk is a complete help center with an agent that checks every article against your product, catches what changed, and drafts the fixes for you.",
       "url": "https://www.producthunt.com/r/576PDTHXOH2PTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/ferndesk/launches/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 384,
+      "votes": 385,
       "rating": 5.0,
       "reviews": 2,
       "thumbnail": "https://ph-files.imgix.net/13c7c481-4fdb-42f7-a4f4-2c1fec085409.gif?auto=format",
@@ -418,7 +418,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-16"
+      "updated": "2026-10-17"
     }
   ]
 }
