@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 02:55 UTC",
+  "updated": "2026-10-26 02:54 UTC",
   "total": 20,
   "tools": [
     {
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
       "url": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 583,
+      "votes": 588,
       "rating": 5.0,
       "reviews": 3,
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.",
       "url": "https://www.producthunt.com/r/E6PNMMFOZ76WY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 488,
+      "votes": 490,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
@@ -63,7 +63,7 @@
         "Marketing automation"
       ],
       "featured": true,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 4,
@@ -84,7 +84,7 @@
         "Virtual Assistants"
       ],
       "featured": true,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 5,
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 6,
@@ -125,7 +125,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 7,
@@ -146,7 +146,7 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 8,
@@ -167,7 +167,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 9,
@@ -188,7 +188,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 10,
@@ -209,7 +209,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 11,
@@ -230,7 +230,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 12,
@@ -240,7 +240,7 @@
       "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
       "url": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 378,
+      "votes": 377,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
@@ -251,7 +251,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 13,
@@ -261,7 +261,7 @@
       "description": "OpenAI expands the GPT-6 family with Sol and Luna with faster, cheaper models trained like Astra. 50% lower API pricing, near-Astra factuality/coding/computer use gains, better prompt caching (90% off cached reads), and alignment improvements. Live in ChatGPT Work, Codex, and via API.",
       "url": "https://www.producthunt.com/r/TYGMCTMYJRKMMV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/openai/launches/gpt-6-sol-luna?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 359,
+      "votes": 360,
       "rating": 5.0,
       "reviews": 879,
       "thumbnail": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
@@ -272,7 +272,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 14,
@@ -282,7 +282,7 @@
       "description": "Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.",
       "url": "https://www.producthunt.com/r/H3AVDIX7A2JROL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 359,
+      "votes": 360,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
@@ -293,10 +293,31 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 15,
+      "id": "1286749",
+      "name": "DeepCell",
+      "tagline": "Your deadline survival kit for office work",
+      "description": "Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.",
+      "url": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 348,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
+      "category": "Productivity",
+      "tags": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Business"
+      ],
+      "featured": false,
+      "updated": "2026-10-26"
+    },
+    {
+      "rank": 16,
       "id": "1272993",
       "name": "Claude Haiku 5.5",
       "tagline": "Anthropic's fastest and most capable Haiku yet",
@@ -314,10 +335,10 @@
         "Tech"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "1250920",
       "name": "Opengeni",
       "tagline": "Ship AI agents within minutes. Infrastructure for Agents",
@@ -335,59 +356,17 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
-    },
-    {
-      "rank": 17,
-      "id": "1286749",
-      "name": "DeepCell",
-      "tagline": "Your deadline survival kit for office work",
-      "description": "Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.",
-      "url": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 345,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
-      "category": "Productivity",
-      "tags": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Business"
-      ],
-      "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "rank": 18,
-      "id": "1265727",
-      "name": "Composio Instant",
-      "tagline": "The easiest way for AI agents to pay for their own tools",
-      "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
-      "url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 334,
-      "rating": 5.0,
-      "reviews": 10,
-      "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
-      "category": "Developer Tools",
-      "tags": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "SDK"
-      ],
-      "featured": false,
-      "updated": "2026-10-25"
-    },
-    {
-      "rank": 19,
       "id": "1288350",
       "name": "Claude Duet",
       "tagline": "Proactive agent that understands what needs your attention",
       "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
       "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 331,
+      "votes": 343,
       "rating": 5.0,
       "reviews": 1062,
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
@@ -398,7 +377,28 @@
         "Bots"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
+    },
+    {
+      "rank": 19,
+      "id": "1265727",
+      "name": "Composio Instant",
+      "tagline": "The easiest way for AI agents to pay for their own tools",
+      "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
+      "url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 338,
+      "rating": 5.0,
+      "reviews": 10,
+      "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
+      "category": "Developer Tools",
+      "tags": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "SDK"
+      ],
+      "featured": false,
+      "updated": "2026-10-26"
     },
     {
       "rank": 20,
@@ -419,7 +419,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     }
   ]
 }
