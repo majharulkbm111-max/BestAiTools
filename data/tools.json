@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 05:03 UTC",
+  "updated": "2026-11-04 04:36 UTC",
   "total": 20,
   "tools": [
     {
@@ -10,7 +10,7 @@
       "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
       "url": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 671,
+      "votes": 673,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
       "url": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/pancake-6/launches/pancake-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 598,
+      "votes": 599,
       "rating": 5.0,
       "reviews": 3,
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 3,
@@ -63,7 +63,7 @@
         "Marketing automation"
       ],
       "featured": true,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 4,
@@ -84,7 +84,7 @@
         "Virtual Assistants"
       ],
       "featured": true,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 5,
@@ -94,7 +94,7 @@
       "description": "Most SMB owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
       "url": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 459,
+      "votes": 464,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 6,
@@ -125,7 +125,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 7,
@@ -135,7 +135,7 @@
       "description": "Your team chats in one app, meets in another, and every AI works alone. Velozity brings it all into one place. Chat, audio and video calls with transcripts, tasks, calendar and files, plus AI agents (Claude, Codex, etc.) on the subscriptions you already pay for. Every agent shares the same context, so work moves between people and agents without having to re-explain. For startups, teams in dev, product, sales, and ops, or solo users juggling several AIs. No second AI bill. Free to start.",
       "url": "https://www.producthunt.com/r/LVDMUE35VIECA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/velozity-2/launches/velozity-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 434,
+      "votes": 435,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
@@ -146,7 +146,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 8,
@@ -167,10 +167,31 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 9,
+      "id": "1276034",
+      "name": "Inbox Zero",
+      "tagline": "Open-source Superhuman alternative",
+      "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
+      "url": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 389,
+      "rating": 4.8,
+      "reviews": 14,
+      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
+      "category": "Email",
+      "tags": [
+        "Email",
+        "Open Source",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "updated": "2026-11-04"
+    },
+    {
+      "rank": 10,
       "id": "1295420",
       "name": "Vaani Developer Platform",
       "tagline": "The only voice AI harness that you'll ever need",
@@ -188,28 +209,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-11-03"
-    },
-    {
-      "rank": 10,
-      "id": "1276034",
-      "name": "Inbox Zero",
-      "tagline": "Open-source Superhuman alternative",
-      "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
-      "url": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 384,
-      "rating": 4.8,
-      "reviews": 14,
-      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
-      "category": "Email",
-      "tags": [
-        "Email",
-        "Open Source",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 11,
@@ -219,7 +219,7 @@
       "description": "Put what you’re building in front of real customers or synthetic users trained on them when you need an answer in minutes without leaving Claude, Cursor, or Jira. Nothing ships on a guess.",
       "url": "https://www.producthunt.com/r/FIY7DCKNBRL5M2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 380,
+      "votes": 384,
       "rating": 5.0,
       "reviews": 7,
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
@@ -230,7 +230,7 @@
         "UX Design"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 12,
@@ -240,9 +240,9 @@
       "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
       "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 379,
+      "votes": 381,
       "rating": 5.0,
-      "reviews": 1073,
+      "reviews": 1076,
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "category": "Messaging",
       "tags": [
@@ -251,7 +251,7 @@
         "Bots"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 13,
@@ -261,7 +261,7 @@
       "description": "Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.",
       "url": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 372,
+      "votes": 376,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
@@ -272,7 +272,7 @@
         "Business"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 14,
@@ -293,7 +293,7 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 15,
@@ -303,7 +303,7 @@
       "description": "Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call \"Companions\", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.",
       "url": "https://www.producthunt.com/r/VLEJBVBONXC6FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 356,
+      "votes": 362,
       "rating": 4.8,
       "reviews": 13,
       "thumbnail": "https://ph-files.imgix.net/c35c35a2-a69b-4705-ae4e-3611f14b13ff.png?auto=format",
@@ -313,7 +313,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 16,
@@ -322,7 +322,7 @@
       "tagline": "The easiest way for AI agents to pay for their own tools",
       "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
       "url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/composio/launches/composio-instant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "votes": 351,
       "rating": 5.0,
       "reviews": 11,
@@ -334,7 +334,7 @@
         "SDK"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 17,
@@ -355,7 +355,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 18,
@@ -376,7 +376,7 @@
         "Tech"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 19,
@@ -386,7 +386,7 @@
       "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
       "url": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 338,
+      "votes": 340,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/61871a26-bd6a-43e0-9c7c-3a40b91eb51e.svg?auto=format",
@@ -397,7 +397,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "rank": 20,
@@ -418,7 +418,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     }
   ]
 }
