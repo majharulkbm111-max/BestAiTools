@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 04:36 UTC",
+  "updated": "2026-11-05 04:51 UTC",
   "total": 20,
   "tools": [
     {
@@ -10,7 +10,7 @@
       "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
       "url": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 673,
+      "votes": 672,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
       "url": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/pancake-6/launches/pancake-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 599,
+      "votes": 598,
       "rating": 5.0,
       "reviews": 3,
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
@@ -42,7 +42,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.",
       "url": "https://www.producthunt.com/r/E6PNMMFOZ76WY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 499,
+      "votes": 496,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
@@ -63,7 +63,7 @@
         "Marketing automation"
       ],
       "featured": true,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 4,
@@ -84,7 +84,7 @@
         "Virtual Assistants"
       ],
       "featured": true,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 5,
@@ -94,9 +94,9 @@
       "description": "Most SMB owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
       "url": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 464,
+      "votes": 468,
       "rating": 5.0,
-      "reviews": 1,
+      "reviews": 4,
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "category": "Productivity",
       "tags": [
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 6,
@@ -125,7 +125,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 7,
@@ -146,7 +146,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 8,
@@ -156,7 +156,7 @@
       "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
       "url": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 390,
+      "votes": 391,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
@@ -167,7 +167,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 9,
@@ -188,7 +188,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 10,
@@ -198,7 +198,7 @@
       "description": "Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.",
       "url": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 387,
+      "votes": 389,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
@@ -209,7 +209,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 11,
@@ -219,7 +219,7 @@
       "description": "Put what you’re building in front of real customers or synthetic users trained on them when you need an answer in minutes without leaving Claude, Cursor, or Jira. Nothing ships on a guess.",
       "url": "https://www.producthunt.com/r/FIY7DCKNBRL5M2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 384,
+      "votes": 385,
       "rating": 5.0,
       "reviews": 7,
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
@@ -230,7 +230,7 @@
         "UX Design"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 12,
@@ -240,9 +240,9 @@
       "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
       "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 381,
+      "votes": 382,
       "rating": 5.0,
-      "reviews": 1076,
+      "reviews": 1079,
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "category": "Messaging",
       "tags": [
@@ -251,17 +251,38 @@
         "Bots"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "rank": 13,
+      "id": "1295912",
+      "name": "Wanaka Studio",
+      "tagline": "Make and publish 3D games with the first AI game engine",
+      "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
+      "url": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 376,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "Artificial Intelligence",
+        "Games",
+        "No-Code"
+      ],
+      "featured": false,
+      "updated": "2026-11-05"
+    },
+    {
+      "rank": 14,
       "id": "1286749",
       "name": "DeepCell",
       "tagline": "Your deadline survival kit for office work",
       "description": "Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.",
       "url": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 376,
+      "votes": 374,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
@@ -272,17 +293,38 @@
         "Business"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "id": "1162044",
+      "name": "Teamily AI",
+      "tagline": "Your personal agent, agent teams & people in one messenger",
+      "description": "The human-agent platform where people and always-on agents get work done together in one unified, context-aware space. Unlike single-user personal agents, Teamily AI enables multi-user, multi-agent teamwork. Built on an AI-native messenger, it connects people, agents, docs, meetings, calls, workflows, and business systems to automate office work and customer service. Agents become real teammates with persistent memory, proactive intelligence, and continuous self-improvement. Free to get started.",
+      "url": "https://www.producthunt.com/r/EKZU365TJG62XT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 366,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
+      "category": "Productivity",
+      "tags": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Social Networking"
+      ],
+      "featured": false,
+      "updated": "2026-11-05"
+    },
+    {
+      "rank": 16,
       "id": "1274680",
       "name": "Jockey by TwelveLabs",
       "tagline": "Your entire video library: organized, searchable, understood",
       "description": "Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.",
       "url": "https://www.producthunt.com/r/H3AVDIX7A2JROL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/twelvelabs/launches/jockey-by-twelvelabs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 366,
+      "votes": 365,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
@@ -293,10 +335,10 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "id": "1278009",
       "name": "Strawberry 1.0",
       "tagline": "AI Browser that saves your team >100h/week",
@@ -313,17 +355,17 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "id": "1265727",
       "name": "Composio Instant",
       "tagline": "The easiest way for AI agents to pay for their own tools",
       "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
       "url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/composio/launches/composio-instant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 351,
+      "votes": 353,
       "rating": 5.0,
       "reviews": 11,
       "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
@@ -334,10 +376,10 @@
         "SDK"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "id": "1250920",
       "name": "Opengeni",
       "tagline": "Ship AI agents within minutes. Infrastructure for Agents",
@@ -355,10 +397,10 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "id": "1272993",
       "name": "Claude Haiku 5.5",
       "tagline": "Anthropic's fastest and most capable Haiku yet",
@@ -376,49 +418,7 @@
         "Tech"
       ],
       "featured": false,
-      "updated": "2026-11-04"
-    },
-    {
-      "rank": 19,
-      "id": "1280279",
-      "name": "UseIt Studio",
-      "tagline": "Your AI design agent for real, editable project files.",
-      "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
-      "url": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 340,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/61871a26-bd6a-43e0-9c7c-3a40b91eb51e.svg?auto=format",
-      "category": "Design Tools",
-      "tags": [
-        "Design Tools",
-        "Art",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-11-04"
-    },
-    {
-      "rank": 20,
-      "id": "1271048",
-      "name": "OpenSwarm",
-      "tagline": "A swarm of agents, in the same place you work",
-      "description": "Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.",
-      "url": "https://www.producthunt.com/r/Y54VBVRLNCMW2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/openswarm-3/launches/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 334,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/ea2bfd22-7652-444c-b680-8028ef82bdc8.png?auto=format",
-      "category": "Task Management",
-      "tags": [
-        "Task Management",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     }
   ]
 }
