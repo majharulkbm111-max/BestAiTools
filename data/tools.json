@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 04:24 UTC",
+  "updated": "2026-11-12 05:30 UTC",
   "total": 20,
   "tools": [
     {
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 2,
@@ -42,17 +42,38 @@
         "No-Code"
       ],
       "featured": true,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 3,
+      "id": "1288148",
+      "name": "Alsona",
+      "tagline": "AI agents that turn buying signals into booked sales calls",
+      "description": "95% of prospects aren't ready to buy when you reach out. Alsona finds the ones showing buying intent right now. It tracks 32+ signals across hiring, funding, tech changes, reviews, ad spend, and more, then scores companies against your ICP and explains why they're worth contacting. AI agents turn those signals into personalized LinkedIn and email outreach, helping you start conversations while the buying window is open. Alsona helps you book calls directly with the 5% who is ready to buy today.",
+      "url": "https://www.producthunt.com/r/6777NBXG6GHZDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 487,
+      "rating": 5.0,
+      "reviews": 1,
+      "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
+      "category": "Sales",
+      "tags": [
+        "Sales",
+        "SaaS",
+        "Artificial Intelligence"
+      ],
+      "featured": true,
+      "updated": "2026-11-12"
+    },
+    {
+      "rank": 4,
       "id": "1294677",
       "name": "Empacer",
       "tagline": " The voice-first assistant for small and medium businesses",
       "description": "Most SMB owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
       "url": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 484,
+      "votes": 486,
       "rating": 5.0,
       "reviews": 4,
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
@@ -63,17 +84,17 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "1307104",
       "name": "Product Hunt MCP",
       "tagline": "The community you trust in the assistant you use",
       "description": "Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.",
       "url": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 438,
+      "votes": 441,
       "rating": 4.8,
       "reviews": 128,
       "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
@@ -84,59 +105,17 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-11"
-    },
-    {
-      "rank": 5,
-      "id": "1302121",
-      "name": "Glasshand",
-      "tagline": "Give your agent a real iPhone and Mac",
-      "description": "Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.",
-      "url": "https://www.producthunt.com/r/4HPTGSLZ23MFLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/glasshand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 401,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/4ba278c5-6784-4b41-b572-91f3ce348422.png?auto=format",
-      "category": "Productivity",
-      "tags": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Apple"
-      ],
-      "featured": true,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 6,
-      "id": "1288148",
-      "name": "Alsona",
-      "tagline": "AI agents that turn buying signals into booked sales calls",
-      "description": "95% of prospects aren't ready to buy when you reach out. Alsona finds the ones showing buying intent right now. It tracks 32+ signals across hiring, funding, tech changes, reviews, ad spend, and more, then scores companies against your ICP and explains why they're worth contacting. AI agents turn those signals into personalized LinkedIn and email outreach, helping you start conversations while the buying window is open. Alsona helps you book calls directly with the 5% who is ready to buy today.",
-      "url": "https://www.producthunt.com/r/6777NBXG6GHZDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 399,
-      "rating": 4.5,
-      "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
-      "category": "Sales",
-      "tags": [
-        "Sales",
-        "SaaS",
-        "Artificial Intelligence"
-      ],
-      "featured": false,
-      "updated": "2026-11-11"
-    },
-    {
-      "rank": 7,
       "id": "1291263",
       "name": "Tobira Site Agent",
       "tagline": "Turn your website into an AI agent that sells to AI agents",
       "description": "People already find you through AI. Tobira turns that AI traffic into real leads and customers. Paste your URL and in 10 minutes your website becomes an AI agent. It answers people and their AI, negotiates, books calls and takes orders right in customers' ChatGPT, Claude, Grok and other AI chats. Leads go to your Telegram or email. Also, AI agents read your site 2x faster and take action without navigating its interface. Free with your own AI key.",
       "url": "https://www.producthunt.com/r/LMNUHW4VUH6RGV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 399,
+      "votes": 400,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/cfffedd6-2cb9-41bc-bee6-ad9f9b44c486.gif?auto=format",
@@ -147,38 +126,38 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
-      "rank": 8,
-      "id": "1284611",
-      "name": "Beam.win",
-      "tagline": "Run AI agents on one Mac and use its windows on another",
-      "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
-      "url": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 396,
+      "rank": 7,
+      "id": "1302121",
+      "name": "Glasshand",
+      "tagline": "Give your agent a real iPhone and Mac",
+      "description": "Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.",
+      "url": "https://www.producthunt.com/r/4HPTGSLZ23MFLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/glasshand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 400,
       "rating": 4.5,
       "reviews": 0,
-      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "thumbnail": "https://ph-files.imgix.net/4ba278c5-6784-4b41-b572-91f3ce348422.png?auto=format",
       "category": "Productivity",
       "tags": [
         "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Apple"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "1295420",
       "name": "Vaani Developer Platform",
       "tagline": "The only voice AI harness that you'll ever need",
       "description": "Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.",
       "url": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 395,
+      "votes": 396,
       "rating": 4.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
@@ -189,7 +168,28 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
+    },
+    {
+      "rank": 9,
+      "id": "1284611",
+      "name": "Beam.win",
+      "tagline": "Run AI agents on one Mac and use its windows on another",
+      "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
+      "url": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 395,
+      "rating": 4.5,
+      "reviews": 0,
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "category": "Productivity",
+      "tags": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "updated": "2026-11-12"
     },
     {
       "rank": 10,
@@ -210,7 +210,7 @@
         "UX Design"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 11,
@@ -220,7 +220,7 @@
       "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
       "url": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 391,
+      "votes": 390,
       "rating": 4.8,
       "reviews": 14,
       "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
@@ -231,17 +231,38 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 12,
+      "id": "1288350",
+      "name": "Claude Duet",
+      "tagline": "Proactive agent that understands what needs your attention",
+      "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
+      "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 387,
+      "rating": 5.0,
+      "reviews": 1098,
+      "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
+      "category": "Messaging",
+      "tags": [
+        "Messaging",
+        "Artificial Intelligence",
+        "Bots"
+      ],
+      "featured": false,
+      "updated": "2026-11-12"
+    },
+    {
+      "rank": 13,
       "id": "1162044",
       "name": "Teamily AI",
       "tagline": "Your personal agent, agent teams & people in one messenger",
       "description": "The human-agent platform where people and always-on agents get work done together in one unified, context-aware space. Unlike single-user personal agents, Teamily AI enables multi-user, multi-agent teamwork. Built on an AI-native messenger, it connects people, agents, docs, meetings, calls, workflows, and business systems to automate office work and customer service. Agents become real teammates with persistent memory, proactive intelligence, and continuous self-improvement. Free to get started.",
       "url": "https://www.producthunt.com/r/EKZU365TJG62XT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 388,
+      "votes": 386,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
@@ -252,28 +273,7 @@
         "Social Networking"
       ],
       "featured": false,
-      "updated": "2026-11-11"
-    },
-    {
-      "rank": 13,
-      "id": "1288350",
-      "name": "Claude Duet",
-      "tagline": "Proactive agent that understands what needs your attention",
-      "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
-      "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 385,
-      "rating": 5.0,
-      "reviews": 1097,
-      "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
-      "category": "Messaging",
-      "tags": [
-        "Messaging",
-        "Artificial Intelligence",
-        "Bots"
-      ],
-      "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 14,
@@ -294,10 +294,31 @@
         "Business"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 15,
+      "id": "1274680",
+      "name": "Jockey by TwelveLabs",
+      "tagline": "Your entire video library: organized, searchable, understood",
+      "description": "Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.",
+      "url": "https://www.producthunt.com/r/H3AVDIX7A2JROL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/twelvelabs/launches/jockey-by-twelvelabs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 366,
+      "rating": 5.0,
+      "reviews": 1,
+      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
+      "category": "Productivity",
+      "tags": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Video"
+      ],
+      "featured": false,
+      "updated": "2026-11-12"
+    },
+    {
+      "rank": 16,
       "id": "1278009",
       "name": "Strawberry 1.0",
       "tagline": "AI Browser that saves your team >100h/week",
@@ -314,28 +335,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-11"
-    },
-    {
-      "rank": 16,
-      "id": "1274680",
-      "name": "Jockey by TwelveLabs",
-      "tagline": "Your entire video library: organized, searchable, understood",
-      "description": "Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.",
-      "url": "https://www.producthunt.com/r/H3AVDIX7A2JROL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/twelvelabs/launches/jockey-by-twelvelabs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 365,
-      "rating": 5.0,
-      "reviews": 1,
-      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
-      "category": "Productivity",
-      "tags": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Video"
-      ],
-      "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 17,
@@ -345,7 +345,7 @@
       "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
       "url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/composio/launches/composio-instant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 355,
+      "votes": 358,
       "rating": 5.0,
       "reviews": 11,
       "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
@@ -356,7 +356,7 @@
         "SDK"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 18,
@@ -377,7 +377,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 19,
@@ -387,7 +387,7 @@
       "description": "Imagine opening your inbox and finding everything already organized, with replies ready to review. Scape is an intelligent email client that prioritizes messages, prepares contextual drafts, and helps track conversations and follow-ups. It understands your work across emails, meetings, calendars, and attachments, so you can spend less time managing communication and more time moving work forward.",
       "url": "https://www.producthunt.com/r/OG2OR3JKMHZ566?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 339,
+      "votes": 338,
       "rating": 5.0,
       "reviews": 3,
       "thumbnail": "https://ph-files.imgix.net/66057095-dec7-47b9-a111-e4b47aa53bbb.png?auto=format",
@@ -398,7 +398,7 @@
         "Design"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "rank": 20,
@@ -419,7 +419,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     }
   ]
 }
