@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 05:28 UTC",
+  "updated": "2026-11-21 05:22 UTC",
   "total": 20,
   "tools": [
     {
@@ -10,7 +10,7 @@
       "description": "95% of prospects aren't ready to buy when you reach out. Alsona finds the ones showing buying intent right now. It tracks 32+ signals across hiring, funding, tech changes, reviews, ad spend, and more, then scores companies against your ICP and explains why they're worth contacting. AI agents turn those signals into personalized LinkedIn and email outreach, helping you start conversations while the buying window is open. Alsona helps you book calls directly with the 5% who is ready to buy today.",
       "url": "https://www.producthunt.com/r/6777NBXG6GHZDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 545,
+      "votes": 548,
       "rating": 5.0,
       "reviews": 7,
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
@@ -21,7 +21,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 2,
@@ -31,7 +31,7 @@
       "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
       "url": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/wanaka-studio/launches/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 500,
+      "votes": 501,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
@@ -42,7 +42,7 @@
         "No-Code"
       ],
       "featured": true,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 3,
@@ -52,7 +52,7 @@
       "description": "Most SMB owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
       "url": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/empacer/launches/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 489,
+      "votes": 490,
       "rating": 5.0,
       "reviews": 4,
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
@@ -63,7 +63,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 4,
@@ -73,7 +73,7 @@
       "description": "Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.",
       "url": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 460,
+      "votes": 464,
       "rating": 4.8,
       "reviews": 128,
       "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
@@ -84,7 +84,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 5,
@@ -105,7 +105,7 @@
         "Artificial Intelligence"
       ],
       "featured": true,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 6,
@@ -115,7 +115,7 @@
       "description": "Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own memory, routines and computer, with a browser you can watch and take over. Open source and self-hosted: any model, your keys, your machine. Web, desktop and mobile.",
       "url": "https://www.producthunt.com/r/JJD4SYA4D3EAB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 412,
+      "votes": 414,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/e55287d1-9b0f-4ac1-999b-f88b64bd0f28.png?auto=format",
@@ -126,7 +126,7 @@
         "Open Source"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 7,
@@ -135,8 +135,8 @@
       "tagline": "Turn your website into an AI agent that sells to AI agents",
       "description": "People already find you through AI. Tobira turns that AI traffic into real leads and customers. Paste your URL and in 10 minutes your website becomes an AI agent. It answers people and their AI, negotiates, books calls and takes orders right in customers' ChatGPT, Claude, Grok and other AI chats. Leads go to your Telegram or email. Also, AI agents read your site 2x faster and take action without navigating its interface. Free with your own AI key.",
       "url": "https://www.producthunt.com/r/LMNUHW4VUH6RGV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 410,
+      "ph_url": "https://www.producthunt.com/products/tobira-ai/launches/tobira-site-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 411,
       "rating": 5.0,
       "reviews": 1,
       "thumbnail": "https://ph-files.imgix.net/cfffedd6-2cb9-41bc-bee6-ad9f9b44c486.gif?auto=format",
@@ -147,7 +147,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 8,
@@ -168,7 +168,7 @@
         "Apple"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 9,
@@ -189,7 +189,7 @@
         "Audio"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 10,
@@ -210,7 +210,7 @@
         "UX Design"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 11,
@@ -231,38 +231,17 @@
         "Social Networking"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 12,
-      "id": "1288350",
-      "name": "Claude Duet",
-      "tagline": "Proactive agent that understands what needs your attention",
-      "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
-      "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 387,
-      "rating": 5.0,
-      "reviews": 1114,
-      "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
-      "category": "Messaging",
-      "tags": [
-        "Messaging",
-        "Artificial Intelligence",
-        "Bots"
-      ],
-      "featured": false,
-      "updated": "2026-11-20"
-    },
-    {
-      "rank": 13,
       "id": "1317562",
       "name": "S.Space",
       "tagline": "Your team and everyone's AI agents, in one workspace",
       "description": "Everyone on your team has an AI agent, and none of them work together, so you copy, paste and re-explain all day. S.Space is one workspace for your team and everyone's agents. Bring the ones you already use, like Claude Code and Codex, from any vendor. Agents reach out, hand work to each other and bring you finished results, with shared memory so you explain things once. Agents act, you approve what matters. Free to start. Built by the team behind AutoGen.",
       "url": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 382,
+      "votes": 388,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/2862be57-c51b-45fc-8618-6e62c9ca35cb.jpeg?auto=format",
@@ -273,7 +252,28 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
+    },
+    {
+      "rank": 13,
+      "id": "1288350",
+      "name": "Claude Duet",
+      "tagline": "Proactive agent that understands what needs your attention",
+      "description": "Claude Duet is a helpful, proactive agent you hand off work to through messages. Tell it what you need and it works on its own computer in the cloud, using apps you connect. It messages you when it is done or needs a decision from you. While it’s always on, it uses good judgment when it reaches out and knows what can wait.",
+      "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 388,
+      "rating": 5.0,
+      "reviews": 1117,
+      "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
+      "category": "Messaging",
+      "tags": [
+        "Messaging",
+        "Artificial Intelligence",
+        "Bots"
+      ],
+      "featured": false,
+      "updated": "2026-11-21"
     },
     {
       "rank": 14,
@@ -294,7 +294,7 @@
         "Business"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 15,
@@ -304,7 +304,7 @@
       "description": "Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call \"Companions\", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.",
       "url": "https://www.producthunt.com/r/VLEJBVBONXC6FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/strawberry/launches/strawberry-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 366,
+      "votes": 368,
       "rating": 4.8,
       "reviews": 13,
       "thumbnail": "https://ph-files.imgix.net/c35c35a2-a69b-4705-ae4e-3611f14b13ff.png?auto=format",
@@ -314,28 +314,28 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 16,
-      "id": "1265727",
-      "name": "Composio Instant",
-      "tagline": "The easiest way for AI agents to pay for their own tools",
-      "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
-      "url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "ph_url": "https://www.producthunt.com/products/composio/launches/composio-instant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 357,
-      "rating": 5.0,
-      "reviews": 14,
-      "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
-      "category": "Developer Tools",
+      "id": "1314645",
+      "name": "TestSprite 4.0",
+      "tagline": "Fix one thing, break another? This agent checks it all",
+      "description": "Your coding agent fixes one thing and breaks another. TestSprite 4.0 is a brand-new testing agent that remembers what your app should do and checks all of it, every time. Tell it in plain words what to test. It explores your running app, writes and runs the end-to-end tests, tells you which failures are real bugs, and keeps checking every change from the web, your terminal or your pull requests.",
+      "url": "https://www.producthunt.com/r/7TKIXW445YMK2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "ph_url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
+      "votes": 365,
+      "rating": 4.8,
+      "reviews": 4,
+      "thumbnail": "https://ph-files.imgix.net/9279be6d-64f3-4c05-b0a9-6c9ac0f5f814.gif?auto=format",
+      "category": "Software Engineering",
       "tags": [
+        "Software Engineering",
         "Developer Tools",
-        "Artificial Intelligence",
-        "SDK"
+        "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 17,
@@ -356,7 +356,7 @@
         "Video"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 18,
@@ -366,7 +366,7 @@
       "description": "HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jobs before they hit the big boards. It matches each job to your profile, tailors your resume and cover letter, and applies on the employer's own site, only with your approval. Every application gets a receipt in your job tracker. Also: resume builder and mock interviews. Free plan with 10 auto-applies.",
       "url": "https://www.producthunt.com/r/WSO7S2YHKPGAXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 348,
+      "votes": 349,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/d7ed14d3-866f-467d-9320-b0a96855b181.svg?auto=format",
@@ -377,7 +377,7 @@
         "Career"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 19,
@@ -387,7 +387,7 @@
       "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
       "url": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
       "ph_url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery/launches/useit-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+BestAiTools+%28ID%3A+299519%29",
-      "votes": 347,
+      "votes": 348,
       "rating": 4.5,
       "reviews": 0,
       "thumbnail": "https://ph-files.imgix.net/61871a26-bd6a-43e0-9c7c-3a40b91eb51e.svg?auto=format",
@@ -398,7 +398,7 @@
         "Artificial Intelligence"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     },
     {
       "rank": 20,
@@ -419,7 +419,7 @@
         "Design"
       ],
       "featured": false,
-      "updated": "2026-11-20"
+      "updated": "2026-11-21"
     }
   ]
 }
